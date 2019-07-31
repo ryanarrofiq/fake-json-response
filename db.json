@@ -15,5 +15,11 @@
 			"name": "John",
 			"gender": "Male"
 		}
+	],
+	"labels": [
+		{
+			"id": 1,
+			"label": "Zapier 3"
+		}
 	]
 }
