@@ -18,6 +18,10 @@
 	],
 	"labels": [
 		{
+			"id": 2,
+			"label": "Zapier 4"
+		},
+		{
 			"id": 1,
 			"label": "Zapier 3"
 		}
