@@ -25,5 +25,33 @@
 			"id": 1,
 			"label": "Zapier 3"
 		}
-	]
+	],
+	"ifttt": {
+		"v1": {
+			"triggers": {
+				"new_fake_label": {
+				  "data": [
+				    {
+				      "image_url": "http://example.com/images/128",
+				      "tags": "banksy, brooklyn",
+				      "posted_at": "2013-11-04T09:23:00-07:00",
+				      "meta": {
+				        "id": "14b9-1fd2-acaa-5df5",
+				        "timestamp": 1383597267
+				      }
+				    },
+				    {
+				      "image_url": "http://example.com/images/125",
+				      "tags": "banksy, nyc",
+				      "posted_at": "2013-11-04T03:23:00-07:00",
+				      "meta": {
+				        "id": "ffb27-a63e-18e0-18ad",
+				        "timestamp": 1383596355
+				      }
+				    }
+				  ]
+				}
+			}
+		}
+	}
 }
